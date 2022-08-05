@@ -1,0 +1,15 @@
+C:\Users\gayan\Desktop\examp\examp001_Hello\bin\Debug\net6.0\examp001_Hello.exe
+C:\Users\gayan\Desktop\examp\examp001_Hello\bin\Debug\net6.0\examp001_Hello.deps.json
+C:\Users\gayan\Desktop\examp\examp001_Hello\bin\Debug\net6.0\examp001_Hello.runtimeconfig.json
+C:\Users\gayan\Desktop\examp\examp001_Hello\bin\Debug\net6.0\examp001_Hello.dll
+C:\Users\gayan\Desktop\examp\examp001_Hello\bin\Debug\net6.0\examp001_Hello.pdb
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.csproj.AssemblyReference.cache
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.AssemblyInfoInputs.cache
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.AssemblyInfo.cs
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.dll
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\refint\examp001_Hello.dll
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.pdb
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\examp001_Hello.genruntimeconfig.cache
+C:\Users\gayan\Desktop\examp\examp001_Hello\obj\Debug\net6.0\ref\examp001_Hello.dll
